@@ -66,12 +66,12 @@ namespace KS
                 (rootZ - side / 2 <= z && rootZ + side / 2 >= z)
             )
             {
-                
+
             }
 
             if (deep > MAX_DEEP)
             {
-                return true;
+                return
             }
         }
 
